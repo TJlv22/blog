@@ -1,0 +1,31 @@
+.bg{
+    background-color: rgb(42, 7, 99);
+}
+
+.wallpaper{
+    background-image: url("wallpaper3.jpg");
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+}
+
+.subtitle{
+    color: #fff;
+    text-shadow: 0 0 3px #fff,0 0 15px #fff;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.no{
+    white-space: nowrap;
+    font-size: large;
+    font-weight: bold;
+    list-style: none;
+}
+
+.under{
+    text-decoration: none;
+    color: #fff;
+    text-shadow: 0 0 2px #fff,0 0 15px #fff;
+    padding: 10px;
+}
