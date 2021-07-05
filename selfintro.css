@@ -1,0 +1,22 @@
+.under{
+    text-decoration: none;
+    color: #fff;
+    text-shadow: 0 0 2px #fff,0 0 15px #fff;
+    padding: 10px;
+}
+
+.no{
+    white-space: nowrap;
+    font-size: large;
+    font-weight: bold;
+    list-style: none;
+}
+
+.text{
+    font-size: large;
+}
+
+.span{
+    font-weight: bold;
+    color: rgb(250, 93, 203);
+}
